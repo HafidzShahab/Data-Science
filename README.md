@@ -17,6 +17,11 @@ link pertemuan 1 -7
 5. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan5_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
 6. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan6_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
 7. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan7_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
+8. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan9_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
+9. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan10_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
+10. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan11_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
+11. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan12_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
+12. https://github.com/HafidzShahab/Data-Science_240401020180_AhmadHafidz/blob/main/pertemuan13_%5BAhmad_Hafidz%5D__%5B240401020180%5D.ipynb
 
 kesimpulan umum
 Pertemuan 3 (Data Cleaning) berfokus pada peningkatan kualitas data melalui deteksi dan penanganan missing values, data duplikat, serta eliminasi outlier agar analisis terhindar dari bias.  
